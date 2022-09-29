@@ -1,4 +1,14 @@
 
+The code for:
+
+Double Mutant of Chymotrypsin Inhibitor 2 Stabilized through Increased Conformational Entropy
+Yulian Gavrilov, Felix Kümmerer, Simone Orioli, Andreas Prestel, Kresten Lindorff-Larsen, and Kaare Teilum
+Cite this: Biochemistry 2022, 61, 3, 160–170
+Publication Date:January 12, 2022
+https://doi.org/10.1021/acs.biochem.1c00749
+
+
+
 Author: Yulian Gavrilov. 
 Started in 2019 (Copenhagen, Denmark). Revised in 2021 (Lund, Sweden).
 
